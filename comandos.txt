@@ -2,5 +2,5 @@ pip install flask-sqlalchemy
 pip show flask-sqlalchemy   
 pip install sqlalchemy
 pip install mysql-connector-python
-pip install flask
+pip install flask flask-sqlalchemy psycopg2
 python main.py
